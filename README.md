@@ -3,3 +3,4 @@ The QR Code Generator project in Python is a simple yet powerful tool that allow
 Third-Party Libraries: The project utilizes popular Python libraries such as qrcode and Pillow (or PIL) to handle the QR code generation and image manipulation tasks. These libraries provide efficient and reliable functionality for creating and customizing QR codes.
 
 #pythonproject #project
+
